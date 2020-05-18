@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+my:
+  cloud:
+    swagger2:
+      enabled: true
+      description: Swagger文档实例
+      title: Swagger文档实例
